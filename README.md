@@ -8,7 +8,7 @@ Welcome to my project page Password-checker one of the first pages when I starts
 
  https://matrixek.github.io/Password-checker/
 
-[page.webm](blob:chrome-extension://eclbecdgdoahkliaijlpkigldlkojjdn/ec168ac6-eaa6-446e-8d17-f2e87b85a4d6)
+[page.webm(https://user-images.githubusercontent.com/123593832/236574329-ba07ab16-232c-4692-ad0c-6254649815a9.webm)
 
 
 ## About my page
