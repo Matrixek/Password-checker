@@ -6,9 +6,9 @@ Welcome to my project page Password-checker one of the first pages when I starts
 ## Demo
 ---
 
-https://matrixek.github.io/taskList/
+ https://matrixek.github.io/Password-checker/
 
-[page.webm](https://user-images.githubusercontent.com/123593832/228050543-e4c018a1-f656-4deb-bd5f-cd676d2e4ba9.webm)
+[page.webm](blob:chrome-extension://eclbecdgdoahkliaijlpkigldlkojjdn/ec168ac6-eaa6-446e-8d17-f2e87b85a4d6)
 
 
 ## About my page
