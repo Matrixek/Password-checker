@@ -1,4 +1,4 @@
-## My  third project page Password-checker 
+## My  project page Password-checker 
 ---
 
 Welcome to my project page Password-checker one of the first pages when I starts coding
