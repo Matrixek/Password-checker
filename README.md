@@ -1,7 +1,7 @@
 ## My  project page Password-checker 
 ---
 
-Welcome to my project page Password-checker one of the first pages when I starts coding
+Welcome to my project page Password-checker one of the first pages when I starts coding in school.
 
 ## Demo
 ---
